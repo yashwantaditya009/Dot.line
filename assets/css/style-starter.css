@@ -11801,7 +11801,7 @@ div#small-dialog iframe {
                 justify-content: center;
                 flex-direction: column;
                 box-shadow: 7px 13px 25px rgba(0, 0, 0, 0.068);
-                border-radius: 6px;
+                border-radius: 10px;
             }
 
 
