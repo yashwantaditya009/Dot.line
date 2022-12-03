@@ -1,14 +1,4 @@
-@charset "UTF-8";
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
---*/
-/*!
- * Bootstrap v4.4.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -11729,8 +11719,8 @@ div#small-dialog iframe {
 
             @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Rancho&family=Water+Brush&display=swap');
 
-/* 
-            * {
+
+             {
                 padding: 0;
                 margin: 0;
                 box-sizing: border-box;
@@ -11743,7 +11733,7 @@ div#small-dialog iframe {
                 --second: #d568df;
                 --background: #fff;
                 --font-color: #555;
-            } */
+            } 
 
 
             .skill_section {
